@@ -12,7 +12,7 @@ For more details, see:
 An API (Application Programming Interface) in the context of Astro is a set of tools and protocols used for building and interacting with software applications. Astro's API provides developers with functions, methods, and standards to create dynamic web applications. This includes various components, utilities, and integrations that facilitate interaction between the Astro framework and other services or applications. By leveraging Astro's API, developers can efficiently build, extend, and customize their web projects, tapping into a rich ecosystem of web development functionalities.
 
 For more details, see:
-- [Astro API Reference](https://docs.astro.build/en/reference/api-reference/)
+- [Astro API Reference](https://docs.astro.build/en/reference/api-reference/) 
 
 ## Build
 
@@ -32,7 +32,7 @@ For more details, see:
 
 ## Cloudflare
 
-Astro's integration with Cloudflare allows for deploying projects on Cloudflare's edge network, enhancing site performance and reliability. This integration benefits from Cloudflare's global distribution, offering faster content delivery to users.
+Astro's integration with Cloudflare allows for deploying projects on Cloudflare's edge network, enhancing your sites performance and reliability. This integration benefits from Cloudflare's global distribution, offering faster content delivery to users.
 
 For more details, see:
 - [Deploying on Cloudflare Guide](https://docs.astro.build/en/guides/deploy/cloudflare/)
